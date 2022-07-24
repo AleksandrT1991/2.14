@@ -1,6 +1,6 @@
-public interface StringList {
-    public interface StringList {
+package pro.sky;
 
+public interface StringList {
         // Добавление элемента.
         // Вернуть добавленный элемент
         // в качестве результата выполнения.
@@ -77,4 +77,4 @@ public interface StringList {
         // и вернуть его.
         String[] toArray();
     }
-}
+
